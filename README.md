@@ -28,5 +28,4 @@ Additional Information
 | Realmlist:        | 127.0.0.1                                        |
 
 
-![Alt text]((http://i.imgur.com/A04SaXp.png)
-
+![Image of wow cata]((http://i.imgur.com/A04SaXp.png)
