@@ -28,5 +28,5 @@ Additional Information
 | Realmlist:        | 127.0.0.1                                        |
 
 
-(http://i.imgur.com/A04SaXp.png)
+![Alt text]((http://i.imgur.com/A04SaXp.png)
 
