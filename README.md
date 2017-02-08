@@ -23,7 +23,7 @@ Additional Information
 
 | Supported patch:  | 4.3.4                                            |
 |-------------------|:-------------------------------------------------|
-| Bugtracker:       | https://github.com/evilkingdom/BugTracker/issues |
+| Bugtracker:       | https://github.com/DJBoxer/Evil-Kingdom/issues   |
 | Forum:            | http://evilkingdom.x10host.com                   |
 | Realmlist:        | 127.0.0.1                                        |
 
