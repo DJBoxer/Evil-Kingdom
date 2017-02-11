@@ -21,11 +21,11 @@ On the Bugtracker all titles of reports must be written in English so that every
 Additional Information
 -------------------------
 
-| Supported patch:  | 5.4.7                                            |
-|-------------------|:-------------------------------------------------|
-| Bugtracker:       | https://github.com/DJBoxer/Evil-Kingdom/issues   |
-| Forum:            | http://evilkingdom.x10host.com                   |
-| Realmlist:        | 127.0.0.1                                        |
+| Supported patch:  | 5.4.7                                                 |
+|-------------------|:------------------------------------------------------|
+| Bugtracker:       | https://github.com/Evil-Kingdom/Evil-Kingdom/issues   |
+| Forum:            | http://evilkingdom.x10host.com                        |
+| Realmlist:        | 127.0.0.1                                             |
 
 
 
