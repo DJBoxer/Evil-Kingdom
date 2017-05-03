@@ -1,26 +1,38 @@
-[//]: # (***************************************************************)
-[//]: # (** DON'T DELETE THIS TEMPLATE ELSE YOUR ISSUE WILL BE CLOSED **)
-[//]: # (***************************************************************)
+<!--- (**********************************)
+      (** Fill in the following fields **)
+      (**********************************) --->
 
-[//]: # (On the Bugtracker all titles of reports must be written in English so that everyone, no matter which language they use everyday, could search and check if the problem already has been reported by another player.
+**Description:**
 
-[//]: # (Enclose links to things related to the bug using http://wowhead.com or http://cata.openwow.com)
-[//]: # (Write your tickets according to the format:)
-[//]: # ([EN][Quest][Zone] A Vision of the Past)
-[//]: # ([EN][NPC] Thoralius the Wise)
-[//]: # ([EN][Spell][Class] Frostfire Bolt)
-[//]: # ([EN][Glyph][Class] Glyph of Frostfire Bolt)
-[//]: # ([EN][Npc][Drop] Thoralius the Wise)
-[//]: # ([EN][Web] Armory doesnt work)
+CHANGEME Description of the problem or issue here.
 
-**Description**: Describe the problem
+**Current behaviour:**
 
-**Current behaviour**: What happens
+CHANGEME Tell us what happens.
+If this is a crash, post the crashlog (upload to https://gist.github.com/).
 
-**Expected behaviour**: What should happen instead
+**Expected behaviour:**
 
-**Steps to reproduce the problem**:
+CHANGEME Tell us what should happen instead.
 
-1. 
-2. 
-3. 
+**Steps to reproduce the problem:**
+
+1. CHANGEME Step 1 include entries of affected creatures / items / quests with a link to the relevant wowhead page.  
+2. Step 2
+3. Step 3
+
+
+**EK rev. hash/commit:** 
+
+CHANGEME Copy the first line of the `worldserver`, `authserver` or `bnetserver` startup.
+For example: Evil Kingdom Rev. 7.x.x 00-00-2017 (Master branch) (Win64, Release, Static) (bnetserver)
+
+**EKDB version:**  CHANGEME Version of the Evil Kingdom database
+
+**Operating system:** CHANGEME OS
+
+
+<!--- Notes
+- This template is for problem reports. For other types of report, edit it accordingly.
+Ignoring this template will result in Issue beening closed without notice !!!.
+--->
