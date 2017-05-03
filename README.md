@@ -7,7 +7,7 @@ On the Bugtracker all titles of reports must be written in English so that every
 
  - Use the search engine to find out if a similar problem has been already reported. If so, check if it's already been fixed and waits for update.
  - Make sure, that what you report is actually a bug.
- - Enclose links to things related to the bug using http://wowhead.com or http://cata.openwow.com
+ - Enclose links to things related to the bug using http://wowhead.com 
  - Write your tickets according to the format:<br>
   * `[EN][Quest][Zone]` A Vision of the Past<br>
   * `[EN][NPC]` Thoralius the Wise<br>
@@ -21,7 +21,7 @@ On the Bugtracker all titles of reports must be written in English so that every
 Additional Information
 -------------------------
 
-| Supported patch:  | 7.1.5                                                 |
+| Supported patch:  | 7.2.0                                                 |
 |-------------------|:------------------------------------------------------|
 | Bugtracker:       | https://github.com/Evil-Kingdom/Evil-Kingdom/issues   |
 | Forum:            | http://evilkingdom.x10host.com                        |
