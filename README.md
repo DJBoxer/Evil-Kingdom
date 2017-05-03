@@ -16,6 +16,8 @@ On the Bugtracker all titles of reports must be written in English so that every
   * `[EN][Npc][Drop]` Thoralius the Wise<br>
   * `[EN][Web]` Armory doesnt work
 
+Then Use this link and copy and edit to your issue.Ignoring this will have your issued closed without notice !!.
+https://raw.githubusercontent.com/Evil-Kingdom/Bugtracker/master/ISSUE_TEMPLATE.md
 
 
 Additional Information
