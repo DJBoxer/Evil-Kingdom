@@ -1,5 +1,5 @@
 <p align="center"><img src="http://i.imgur.com/MZiA84B.png" /></p>
-================================
+==========================================================================================================================================
 
 How to use?
 -------------------------
@@ -22,7 +22,6 @@ https://raw.githubusercontent.com/Evil-Kingdom/Bugtracker/master/ISSUE_TEMPLATE.
 
 Additional Information
 -------------------------
-
 | Supported patch:  | 7.2.0                                                 |
 |-------------------|:------------------------------------------------------|
 | Bugtracker:       | https://github.com/Evil-Kingdom/Evil-Kingdom/issues   |
