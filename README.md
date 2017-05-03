@@ -1,4 +1,4 @@
-Evil Kingdom
+![evilkingdomlogo](http://i.imgur.com/MZiA84B.png)
 ================================
 
 How to use?
