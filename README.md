@@ -1,4 +1,4 @@
-![evilkingdomlogo](http://i.imgur.com/MZiA84B.png)
+<p align="center"><img src="http://i.imgur.com/MZiA84B.png" /></p>
 ================================
 
 How to use?
