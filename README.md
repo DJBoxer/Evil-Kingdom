@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/Evil-Kingdom/Bugtracker/master/ISSUE_TEMPLATE.
 
 Additional Information
 -------------------------
-| Supported patch:  | 3.3.5a                                                |
+| Supported patch:  | 4.3.4                                                |
 |-------------------|:------------------------------------------------------|
 | Bugtracker:       | https://github.com/Evil-Kingdom/Evil-Kingdom/issues   |
 | Forum:            | http://evilkingdom.x10host.com                        |
