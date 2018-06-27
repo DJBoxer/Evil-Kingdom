@@ -26,7 +26,7 @@ Additional Information
 |-------------------|:------------------------------------------------------|
 | Bugtracker:       | https://github.com/Evil-Kingdom/Evil-Kingdom/issues   |
 | Forum:            | http://evilkingdom.ddns.net/forum                     |
-| Account creation  | http://evilkingdom.ddns.net/register                  |
+| Account creation  | http://evilkingdom.ddns.net                  |
 | Realmlist:        | evilkingdom.ddns.net                                  |
 -------------------------
 
