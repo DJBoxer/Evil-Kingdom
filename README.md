@@ -25,8 +25,8 @@ Additional Information
 | Supported patch:  | 4.3.4                                                |
 |-------------------|:------------------------------------------------------|
 | Bugtracker:       | https://github.com/Evil-Kingdom/Evil-Kingdom/issues   |
-| Forum:            | http://evilkingdom.x10host.com                        |
-| Account creation  | http://evilkingdom.ddns.net                           |
+| Forum:            | http://evilkingdom.ddns.net/forum                     |
+| Account creation  | http://evilkingdom.ddns.net/register                  |
 | Realmlist:        | evilkingdom.ddns.net                                  |
 -------------------------
 
