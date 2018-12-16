@@ -22,11 +22,11 @@ https://raw.githubusercontent.com/Evil-Kingdom/Bugtracker/master/ISSUE_TEMPLATE.
 
 Additional Information
 -------------------------
-| Supported patch:  | 7.3.5                                                 |
+| Supported patch:  | 3.3.5                                                 |
 |-------------------|:------------------------------------------------------|
 | Bugtracker:       | https://github.com/Evil-Kingdom/Evil-Kingdom/issues   |
-| Forum:            | https://evilkingdom.us/forum                          |
-| Account creation  | https://evilkingdom.us/register                       |
+| Forum:            | http://evilkingdom.us/                                |
+| Account creation  | http://evilkingdom.us/register                        |
 | Realmlist:        | evilkingdom.ddns.net                                  |
 -------------------------
 
