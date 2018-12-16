@@ -25,8 +25,8 @@ Additional Information
 | Supported patch:  | 3.3.5                                                 |
 |-------------------|:------------------------------------------------------|
 | Bugtracker:       | https://github.com/Evil-Kingdom/Evil-Kingdom/issues   |
-| Forum:            | http://evilkingdom.us/                                |
-| Account creation  | http://evilkingdom.us/register                        |
+| Forum:            | http://evil-kingdom.us/                               |
+| Account creation  | http://evil-kingdom.us/register                       |
 | Realmlist:        | evilkingdom.ddns.net                                  |
 -------------------------
 
